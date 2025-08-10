@@ -1,0 +1,53 @@
+1 Wstęp
+1.1. Cel pracy
+1.2. Zakres badań
+
+2 Przegląd literatury
+2.1. Historia i specyfika Premier League
+2.2. Analiza wyników sportowych w literaturze
+2.3. Zastosowanie uczenia maszynowego w prognozowaniu wyników sportowych
+2.4. Charakterystyka wybranych modeli:
+    2.4.1. Regresja logistyczna
+    2.4.2. MLP (wielowarstwowe perceptrony)
+    2.4.3. SVM (maszyny wektorów nośnych)
+    2.4.4. XGBoost
+
+3 Dane i metodologia
+3.1. Źródła danych historycznych
+3.2. Opis i charakterystyka danych
+3.3. Wstępna analiza danych
+3.4. Przygotowanie danych do modelowania
+    3.4.1. Czyszczenie i uzupełnianie danych
+    3.4.2. Podział danych na zbiory treningowe i testowe
+
+4 Opis zastosowanych modeli
+4.1. Regresja logistyczna
+    4.1.1. Podstawy teoretyczne
+    4.1.2. Implementacja i parametryzacja
+4.2. MLP 
+    4.2.1. Architektura sieci
+    4.2.2. Proces uczenia i optymalizacja
+4.3. SVM 
+    4.3.1. Zasady działania
+    4.3.2. Dobór parametrów i jądra
+4.4. XGBoost
+    4.4.1. Algorytm gradient boosting
+    4.4.2. Zalety i specyfika modelu
+
+5 Eksperymenty i wyniki
+5.1. Metryki oceny modeli
+5.2. Wyniki regresji logistycznej
+5.3. Wyniki MLP
+5.4. Wyniki SVM
+5.5. Wyniki XGBoost
+5.6. Porównanie i analiza uzyskanych wyników
+
+Dyskusja
+6.1. Interpretacja wyników
+6.3. Wnioski wynikające z porównania modeli
+
+Wnioski i perspektywy dalszych badań
+7.1. Podsumowanie najważniejszych ustaleń
+7.2. Propozycje dalszych badań
+
+Bibliografia
